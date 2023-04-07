@@ -6,7 +6,7 @@
 
 ## 作者
 
-- [ver](https://github.com/heubeststudent)
+- [ver](https://github.com/wangjiongjiong)
 
 - heu cs  
 
